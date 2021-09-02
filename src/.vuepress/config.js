@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Toast Docs',
+  title: 'OliveToast Docs',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,22 +34,18 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
+        text: 'Custom Command Guide',
         link: '/guide/',
       },
       {
-        text: 'Api',
-        link: '/api/'
-      },
-      {
         text: 'Github',
-        link: 'https://github.com/choshinyoung/Toast'
+        link: 'https://github.com/choshinyoung/OliveToast'
       }
     ],
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'Custom Command Guide',
           collapsable: false,
           children: [
             '',
