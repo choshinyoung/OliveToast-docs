@@ -38,6 +38,10 @@ module.exports = {
         link: '/guide/',
       },
       {
+        text: 'Toast Commands',
+        link: '/toastCommands/',
+      },
+      {
         text: 'Github',
         link: 'https://github.com/choshinyoung/OliveToast'
       }
@@ -51,7 +55,27 @@ module.exports = {
             '',
             'regex',
             'toast',
-            'toastCommands',
+          ]
+        }
+      ],
+      '/toastCommands/': [
+        {
+          title: 'Toast Commands',
+          collapsable: false,
+          children: [
+            '',
+            'literals',
+            'operators',
+            'statements',
+            'others',
+            'lists',
+            'strings',
+            'default',
+            'messages',
+            'users',
+            'roles',
+            'channels',
+            'servers',
           ]
         }
       ],
