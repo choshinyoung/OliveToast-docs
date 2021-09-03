@@ -10,17 +10,17 @@
 
 변수 x의 값과 y를 더하고 그 값을 x에 저장합니다.
 
-`var x sub y`
-`var x mul y`
-`var x div y`
-`var x mod y`
-`var x exp y`
-`var x floorDiv y`
-`var x bitAnd y`
-`var x bitOr y`
-`var x bitXor y`
-`var x bitNot y`
-`var x lShift y`
+`var x sub y`   
+`var x mul y`   
+`var x div y`   
+`var x mod y`   
+`var x exp y`   
+`var x floorDiv y`   
+`var x bitAnd y`   
+`var x bitOr y`   
+`var x bitXor y`   
+`var x bitNot y`   
+`var x lShift y`   
 `var x rShift y`
 
 ```js
