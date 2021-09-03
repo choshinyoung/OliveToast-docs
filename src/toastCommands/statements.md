@@ -2,7 +2,7 @@
 
 선택문, 반복문 커맨드들입니다.
 
-### if
+## if
 
 `if x y`
 
@@ -16,7 +16,7 @@ x가 true라면 함수 y를 실행합니다.
 it is true
 ```
 
-### else
+## else
 
 `if x y else z`
 
@@ -33,7 +33,7 @@ else () {
 it is false
 ```
 
-### while
+## while
 
 `while x y`
 
@@ -53,7 +53,7 @@ x가 true인동안 함수 y를 실행합니다.
 4
 ```
 
-### for
+## for
 
 `for x y`
 

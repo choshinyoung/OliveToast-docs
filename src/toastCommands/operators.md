@@ -2,7 +2,7 @@
 
 연산자 커맨드들입니다.
 
-### add
+## add
 
 `x add y`
 
@@ -13,7 +13,7 @@
 3
 ```
 
-### sub
+## sub
 
 `x sub y`
 
@@ -24,7 +24,7 @@ x에서 y를 뺍니다.
 1
 ```
 
-### mul
+## mul
 
 `x mul y`
 
@@ -35,7 +35,7 @@ x에서 y를 뺍니다.
 6
 ```
 
-### div
+## div
 
 `x div y`
 
@@ -48,7 +48,7 @@ x에서 y를 나눕니다.
 2.5
 ```
 
-### mod
+## mod
 
 `x mod y`
 
@@ -59,7 +59,7 @@ x에서 y를 나눈 나머지를 구합니다.
 1
 ```
 
-### floorDiv
+## floorDiv
 
 `x floorDiv y`
 
@@ -73,7 +73,7 @@ Func("floorDiv", (int, ToastContext, int) => int)
 2
 ```
 
-### exp
+## exp
 
 `x exp y`
 
@@ -84,7 +84,7 @@ x의 y제곱입니다.
 1024
 ```
 
-### is
+## is
 
 `x is y`
 
@@ -97,7 +97,7 @@ false
 true
 ```
 
-### greater
+## greater
 
 `x greater y`
 
@@ -108,7 +108,7 @@ x가 y보다 큰지 확인합니다.
 true
 ```
 
-### less
+## less
 
 `x less y`
 
@@ -119,7 +119,7 @@ x가 y보다 작은지 확인합니다.
 false
 ```
 
-### greaterEqual
+## greaterEqual
 
 `x greaterEqual y`
 
@@ -130,7 +130,7 @@ x가 y보다 크거나 같은지 확인힙니다.
 true
 ```
 
-### lessEqual
+## lessEqual
 
 `x lessEqual y`
 
@@ -141,7 +141,7 @@ x가 y보다 작거나 같은지 확인합니다.
 false
 ```
 
-### and
+## and
 
 `x and y`
 
@@ -154,7 +154,7 @@ true
 false
 ```
 
-### or
+## or
 
 `x or y`
 
@@ -169,7 +169,7 @@ true
 false
 ```
 
-### not
+## not
 
 `not x`
 
@@ -182,7 +182,7 @@ false
 true
 ```
 
-### bitAnd
+## bitAnd
 
 `x bitAnd y`
 
@@ -193,7 +193,7 @@ true
 2
 ```
 
-### bitOr
+## bitOr
 
 `x bitOr y`
 
@@ -204,7 +204,7 @@ true
 3
 ```
 
-### bitXor
+## bitXor
 
 `x bitXor y`
 
@@ -215,7 +215,7 @@ true
 1
 ```
 
-### bitNot
+## bitNot
 
 `bitNot x`
 
@@ -226,7 +226,7 @@ true
 -4
 ```
 
-### lShift
+## lShift
 
 `x lShift y`
 
@@ -237,7 +237,7 @@ true
 64
 ```
 
-### rShift
+## rShift
 
 `x rShift y`
 
