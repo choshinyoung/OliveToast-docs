@@ -73,7 +73,6 @@ module.exports = {
             'default',
             'messages',
             'users',
-            'roles',
             'channels',
             'servers',
             'db',

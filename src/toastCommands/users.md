@@ -24,6 +24,28 @@
 choshinyoung#1795
 ```
 
+## addRole
+
+`addRole x y`
+
+유저에게 역할을 추가합니다.
+
+```js
+> addRole user "테스트역할"
+
+```
+
+## removeRole
+
+`removeRole x y`
+
+유저에게서 역할을 제거합니다.
+
+```js
+> removeRole user "테스트역할"
+
+```
+
 ## kick
 
 `kick x`
