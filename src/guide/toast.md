@@ -139,16 +139,16 @@ function () { }
 
 다음 타입들은 모두 자동으로 변환됩니다.
 
-`any` -> `text`
-`text` -> `number`
-`text` -> `float`
-`text` -> `list`
+`any` -> `text`   
+`text` -> `number`   
+`text` -> `float`   
+`text` -> `list`   
 
-`text` -> `user` : 유저네임, 닉네임, 맨션, id를 인식해 유저로 변환합니다.
+`text` -> `user` : 유저네임, 닉네임, 맨션, id를 인식해 유저로 변환합니다.   
 `number` -> `user` : id를 사용해 유저로 변환합니다.
 
-`text` -> `channel` : 채널이름, 맨션, id를 인식해 채널로 변환합니다.
+`text` -> `channel` : 채널이름, 맨션, id를 인식해 채널로 변환합니다.   
 `number` -> `channel`
 
-`text` -> `role`
+`text` -> `role`   
 `number` -> `role`
