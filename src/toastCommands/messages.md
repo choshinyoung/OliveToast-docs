@@ -63,12 +63,12 @@
 
 ## dm
 
-`dm x y`
+`dm x`
 
-유저 x에게 텍스트 y를 보냅니다.
+커맨드를 실행한 유저에게 메시지를 보냅니다.
 
 ```js
-> dm "OliveToast" "hello"
+> dm "hello"
 
 ```
 
