@@ -106,7 +106,7 @@
 
 ## sortAs
 
-`sorAst x y`
+`sortAs x y`
 
 리스트 x를 x의 각 요소를 파라미터로 하는 함수 y의 리턴값을 기준으로 정렬합니다.
 
