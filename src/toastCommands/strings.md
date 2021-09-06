@@ -81,15 +81,15 @@ true
 
 ## join
 
-`join x y`
+`x join y`
 
 두 텍스트를 결합합니다. 만약 y가 리스트라면 x를 분리자로 사용해 y의 요소를 결합합니다.
 
 ```js
-> join "Hello " "world"
+> "Hello " join "world"
 Hello world
 
-> join ", " [1, 2, 3]
+> ", " join [1, 2, 3]
 1, 2, 3
 ```
 
