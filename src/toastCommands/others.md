@@ -53,19 +53,6 @@ x의 타입을 y로 변환합니다.
 OliveToast#8788
 ```
 
-## execute
-
-`execute x y`
-
-함수 x를 실행합니다. y는 파라미터 값들의 리스트입니다.
-
-```js
-> execute (x) {
-    send x
-} ["hello"]
-hello
-```
-
 ## random
 
 `random x y`
