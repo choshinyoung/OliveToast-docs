@@ -35,6 +35,17 @@ x초만큼 대기합니다.
 
 ```
 
+## currentTime
+
+`currentTime`
+
+현재 시간을 타임스탬프 형식으로 리턴합니다.
+
+```js
+> currentTime
+1632815803
+```
+
 
 ## of
 
@@ -48,6 +59,7 @@ x초만큼 대기합니다.
 `nickname of <user>`   
 `isBot of <user>`   
 `mention of <user>`
+`createdAt of <user>`
 
 `name of <channel>`   
 `id of <channel>`   
@@ -55,12 +67,14 @@ x초만큼 대기합니다.
 `isNsfw of <channel>`   
 `mention of <channel>`   
 `slowMode of <channel>`
+`createdAt of <channel>`
 
 `name of <role>`   
 `id of <role>`   
 `isHoisted of <role>`   
 `isMentionable of <role>`   
 `mention of <role>`
+`createdAt of <role>`
 
 ```js
 > name of user
