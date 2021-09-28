@@ -58,7 +58,7 @@ x초만큼 대기합니다.
 `tag of <user>`   
 `nickname of <user>`   
 `isBot of <user>`   
-`mention of <user>`
+`mention of <user>`   
 `createdAt of <user>`
 
 `name of <channel>`   
@@ -66,14 +66,14 @@ x초만큼 대기합니다.
 `category of <channel>`   
 `isNsfw of <channel>`   
 `mention of <channel>`   
-`slowMode of <channel>`
+`slowMode of <channel>`   
 `createdAt of <channel>`
 
 `name of <role>`   
 `id of <role>`   
 `isHoisted of <role>`   
 `isMentionable of <role>`   
-`mention of <role>`
+`mention of <role>`   
 `createdAt of <role>`
 
 ```js
