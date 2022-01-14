@@ -46,7 +46,7 @@
 채널 x에 텍스트 y를 보냅니다.
 
 ```js
-> send "채팅2" "hello"
+> sendTo "채팅2" "hello"
 
 ```
 
