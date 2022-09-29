@@ -107,7 +107,7 @@ asdfasdf
 x가 있거나 없을 때를 모두 인식합니다.
 
 ```js
-> hello [a-z]?
+> hello [a-z]+?
 hello
 hello world
 hello sans
